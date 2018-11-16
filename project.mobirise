@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "thestorysoj",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -36,7 +36,11 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 5,
     "versionPublish": "4.8.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -484,9 +488,9 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "<br><br>The Story So <b>J</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-black\" href=\"#\" data-max-id=\"1910881541326576460_8998604696\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
-          "display2": "display-2",
+          "title": "<br>The Story So <b>J</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-black\" href=\"#\" data-max-id=\"1911418510855088335_8998604696\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "display2": "display-1",
           "display4": "display-4",
           "alias": "instagram-feed",
           "_tags": [
