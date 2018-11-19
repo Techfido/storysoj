@@ -34,7 +34,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 5,
+    "uniqCompNum": 6,
     "versionPublish": "4.8.5",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -502,6 +502,22 @@
           ],
           "_name": "instagram-feed-block",
           "_anchor": "instagram-feed-block-4"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here --><hmtl>\n<!-- Bitcoadz.io - Ad Display Code -->\n<div id=\"data_27595\"></div>{JS_CODE_0}\n<!-- Bitcoadz.io - Ad Display Code -->\n<hmtl></hmtl></hmtl>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-5",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script data-cfasync=\"false\" async type=\"text/javascript\" src=\"//www.bitcoadz.io/display/items.php?27595&58751&320&50&4&0&0&0&3\"></script>"
+          ]
         }
       ]
     }

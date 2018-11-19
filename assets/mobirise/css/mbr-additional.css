@@ -1773,3 +1773,9 @@ body {
 .cid-r8wpPGF0fQ .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+#custom-html-5 {
+  /* Type valid CSS here */
+}
+#custom-html-5 .my-image {
+  width: 100%;
+}
