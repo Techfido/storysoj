@@ -511,7 +511,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here --><hmtl>\n<!-- Bitcoadz.io - Ad Display Code -->\n<div id=\"data_27595\"></div>{JS_CODE_0}\n<!-- Bitcoadz.io - Ad Display Code -->\n<hmtl></hmtl></hmtl>",
+          "_customHTML": "<!-- Bitcoadz.io - Ad Display Code -->\n<div id=\"data_27737\"></div>{JS_CODE_0}\n<!-- Bitcoadz.io - Ad Display Code -->",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -521,7 +521,7 @@
           "_anchor": "custom-html-5",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script data-cfasync=\"false\" async type=\"text/javascript\" src=\"//www.bitcoadz.io/display/items.php?27595&58751&320&50&4&0&0&0&3\"></script>"
+            "<script data-cfasync=\"false\" async type=\"text/javascript\" src=\"//www.bitcoadz.io/display/items.php?27737&58751&468&60&1&0&0&0&0\"></script>"
           ]
         },
         {
