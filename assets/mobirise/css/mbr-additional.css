@@ -1773,10 +1773,11 @@ body {
 .cid-r8wpPGF0fQ .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-r9Q59nCQGp {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
+#custom-html-5 {
+  /* Type valid CSS here */
+}
+#custom-html-5 .my-image {
+  width: 100%;
 }
 .cid-ra6uOhrphX {
   padding-top: 0px;
@@ -1787,9 +1788,8 @@ body {
 .cid-ra6uOhrphX blockquote {
   color: #767676;
 }
-#custom-html-5 {
-  /* Type valid CSS here */
-}
-#custom-html-5 .my-image {
-  width: 100%;
+.cid-r9Q59nCQGp {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
